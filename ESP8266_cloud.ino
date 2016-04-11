@@ -23,8 +23,8 @@ aREST rest = aREST(client);
 char* device_id = "bbquito";
 
 // WiFi parameters
-const char* ssid = "youcantseeme";
-const char* password = "KDS-r60XBR2";
+const char* ssid = "";
+const char* password = "";
 
 // Variables to be exposed to the API
 int temperature;
